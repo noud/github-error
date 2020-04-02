@@ -31,3 +31,10 @@ adds:
 adds:
 - [jQuery](http://jquery.com)
     - [Plax](http://cameronmcefee.com/plax)
+
+## extra resources
+
+- [Status](https://www.githubstatus.com)
+    - [Incident report](https://www.githubstatus.com/incidents/80d0cs6kpsps)
+- [Community](https://github.community)
+- [Help](https://help.github.com/en)
