@@ -1,6 +1,6 @@
 ![logo-img-2x](./public/logo-img-2x.png?raw=true "logo-img-2x")
 
-# [GitHub](https://github.com) [parallax.js](https://matthew.wagerfield.com/parallax)
+# [GitHub](https://github.com) [error](https://en.wikipedia.org/wiki/Error)
 
 consists of:
 - imaging
