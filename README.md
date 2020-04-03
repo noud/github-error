@@ -10,7 +10,7 @@ consists of:
 
 ## Unicorn! [timeout](https://en.wikipedia.org/wiki/Timeout_(computing))
 
-![Unicorn!](./docs/unicorn.png?raw=true "Unicorn!")
+![Unicorn!](./docs/unicorn!.png?raw=true "Unicorn!")
 
 ## 404 and 500 Error pages
 
