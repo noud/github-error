@@ -14,7 +14,7 @@ consists of:
 
 ## 404 and 500 Error pages
 
-adds:
+adding:
 - imaging
    - [Joint Photographic Experts Group (JPEG)](https://en.wikipedia.org/wiki/JPEG)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
