@@ -14,17 +14,21 @@ consists of:
 
 ## 404 and 500 Error pages
 
-### [404 Page not found](https://github.com/404)
-
-### [500 Server Error](https://github.com/500)
-
-![Server Error](./docs/server_error.png?raw=true "Server Error")
-
 adds:
 - imaging
    - [Joint Photographic Experts Group (JPEG)](https://en.wikipedia.org/wiki/JPEG)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
     - [parallax.js](https://matthew.wagerfield.com/parallax)
+
+### [404 Page not found](https://github.com/404)
+
+adds:
+- [Polymer Library](https://polymer-library.polymer-project.org)
+- [Primer CSS](https://primer.style/css)
+
+### [500 Server Error](https://github.com/500)
+
+![Server Error](./docs/server_error.png?raw=true "Server Error")
 
 ## [About](https://github.com/about)
 
@@ -34,7 +38,9 @@ adds:
 
 ## extra resources
 
+- [Help](https://help.github.com/en)
+- [Pages](https://pages.github.com)
+- [Community](https://github.community)
 - [Status](https://www.githubstatus.com)
     - [Incident report](https://www.githubstatus.com/incidents/80d0cs6kpsps)
-- [Community](https://github.community)
-- [Help](https://help.github.com/en)
+- [Assets](https://github.githubassets.com)
