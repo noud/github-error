@@ -38,6 +38,7 @@ adds:
 
 ## extra resources
 
+- [Mona Lisa](https://github.com/sponsors) octocat, for sponsors
 - [Help](https://help.github.com/en)
 - [Pages](https://pages.github.com)
 - [Community](https://github.community)
